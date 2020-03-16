@@ -1,4 +1,4 @@
-﻿using SecureSystem.Models;  // пространство имен модели User
+﻿using SecureSystem.Models;
 using Microsoft.AspNetCore.Identity;
 using System.Threading.Tasks;
 

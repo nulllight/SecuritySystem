@@ -11,6 +11,7 @@ namespace SecureSystem.Models
         public int OrderId { get; set; }
         public int Quantity { get; set; }
         public string Address { get; set; }
+        public string Phone { get; set; }
         public int ProductId { get; set; } 
         public Product Product { get; set; }
 
