@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Выполнено";
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <p>Покупка успешно совершена!</p>
+}
+else
+{
+    <a asp-controller="Account" asp-action="Login">Вход</a>
+    <a asp-controller="Account" asp-action="Register">Регистрация</a>
+}
