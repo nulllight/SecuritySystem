@@ -8694,11 +8694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nulllight\\Desktop\\SecureSystem\\SecureSystem\\SecureSystem.csproj",
+      "projectUniqueName": "D:\\GitRep\\SecuritySystem\\SecureSystem\\SecureSystem\\SecureSystem.csproj",
       "projectName": "SecureSystem",
-      "projectPath": "C:\\Users\\nulllight\\Desktop\\SecureSystem\\SecureSystem\\SecureSystem.csproj",
+      "projectPath": "D:\\GitRep\\SecuritySystem\\SecureSystem\\SecureSystem\\SecureSystem.csproj",
       "packagesPath": "C:\\Users\\nulllight\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nulllight\\Desktop\\SecureSystem\\SecureSystem\\obj\\",
+      "outputPath": "D:\\GitRep\\SecuritySystem\\SecureSystem\\SecureSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
